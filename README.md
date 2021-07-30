@@ -11,6 +11,7 @@ Reading groups/Seminars that I am following:
 - <a href="https://fcai.fi/machine-learning-coffee-seminar"> Machine Learning Coffee Seminar </a> @ Finnish Center for Artificial Intelligence (FCAI)
 - <a href="http://www.mit.edu/~dimitrib/RLbook.html"> Reinforcement Learning and Optimal Control </a> Dimitri Bertsekas' Lectures @ Arizona State University
 - <a href="https://www.imsi.institute/programs/"> Workshops related to Optimal control </a> @  Institute for Mathematical and Statistical Innovation (IMSI) 
+- <a href="https://awjuliani.medium.com/"> A nice personal blog of Juliani on RL</a>
 
 
 
