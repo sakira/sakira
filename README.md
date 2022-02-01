@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning, deep learning, probabilistic graphical modeling, Bayesian filtering and smoothing, optimal control
+- 🔭 I’m currently working on machine learning, deep learning, probabilistic graphical modeling, Bayesian filtering and smoothing, optimal control, quantum machine learning
 - 👯 I’m looking to collaborate on natural language processing, deep learning
 - 🤔 I’m looking for help with model uncertainty
 - 💬 Ask me about machine learning
-- 📫 How to reach me: sakira.hassan@gmail.com 
+- 📫 How to reach me: sakira.hassan@gmail.com
+- ⚡ Fun fact: Never use ML or DL if you can solve the problem otherwise. 
 
 Reading groups/Seminars that I am following:
 - <a href="https://sites.google.com/view/dce-reading-group"> Data-Centric Engineering Reading Group </a> @ The Alan Turing Institute, London UK
