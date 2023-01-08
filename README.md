@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning, deep learning, probabilistic graphical modeling, Bayesian filtering and smoothing, optimal control, ~~quantum machine learning ~~
+- 🔭 I’m currently working on machine learning, deep learning, probabilistic graphical modeling, Bayesian filtering and smoothing, optimal control, ~~quantum machine learning~~
 - 👯 I’m looking to collaborate on natural language processing, deep learning
 - 🤔 I’m looking for help with model uncertainty
 - 💬 Ask me about machine learning
